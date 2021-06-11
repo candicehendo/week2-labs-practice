@@ -6,6 +6,7 @@ public class Week2questions {
 	
         
 		System.out.println("Hello World!");
+		System.out.println("Second push");
         
 		
 	}
